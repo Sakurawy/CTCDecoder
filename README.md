@@ -1,3 +1,4 @@
+TEST
 # CTC Decoding Algorithms
 
 **Update 2021: installable Python package**
